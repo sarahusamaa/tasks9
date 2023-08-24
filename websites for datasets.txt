@@ -1,0 +1,98 @@
+1. Google Dataset Search
+Type of data: Miscellaneous
+Data compiled by: Google
+Access: Free to search, but does include some fee-based search results
+Sample dataset: Global price of coffee, 1990-present
+
+It seems we turn to Google for everything these days, and data is no exception. Launched in 2018, Google Dataset Search is like Google’s standard search engine, but strictly for data. While it’s not the best tool if you prefer to browse, if you have a particular topic or keyword in mind, it won’t disappoint. Google Dataset Search aggregates data from external sources, providing a clear summary of what’s available, a description of the data, who it’s provided by, and when it was last updated. It’s an excellent place to start.
+
+
+2. Kaggle
+Type of data: Miscellaneous
+Data compiled by: Kaggle
+Access: Free, but registration required
+Sample dataset: Daily temperature of major cities
+
+Like Google Dataset Search, Kaggle offers aggregated datasets, but it’s a community hub rather than a search engine. Kaggle launched in 2010 with a number of machine learning competitions, which subsequently solved problems for the likes of NASA and Ford. It has since evolved into a renowned open data platform, offering cloud-based collaboration for data scientists, as well as educational tools for teaching artificial intelligence and data analysis techniques…plus, of course, tonnes of great datasets covering almost any topic you can imagine.
+
+
+3. Data.Gov
+Type of data: Government
+Data compiled by: US Federal Government
+Access: Free, no registration required
+Sample dataset: Lobster Report for Transshipment and Sales
+
+In 2015, the US Government made all its data publicly available. With over 200,000 datasets covering everything from climate change to crime, you can lose yourself in the database for hours. For a government website, it has some surprisingly user-friendly search functions, including the ability to drill down by geographical area, organization type, and file format. Search results are also clearly labeled at federal, state, county, and city levels. If you’re interested in more general data about the US population, you can also check out the US Census Bureau, offering a rich selection of data about US citizens, their geography, education, and population growth.
+
+
+4. Datahub.io
+Type of data: Mostly business and finance
+Data compiled by: Datahub
+Access: Mostly free, no registration required
+Sample dataset: Average mass of glaciers since 1945
+
+The goal of many data analysts is to help drive savvy business decisions. As such, using economic or business datasets for your portfolio project might be worth considering. While Datahub covers a variety of topics from climate change to entertainment, it mainly focuses on areas like stock market data, property prices, inflation, and logistics. Because many of the data on the portal are updated monthly (or even daily) you’ll always have something fresh to work with, as well as data that covers broad timescales.
+
+
+5. UCI Machine Learning Repository
+Type of data: Machine learning
+Data compiled by: University of California Irvine
+Access: Free, no registration required
+Sample dataset: Behavior of urban traffic in Sao Paulo, Brazil
+
+Generalized repositories are great if you’re happy to browse. But if you’re seeking something more niche, why not specialize? Enter the UCI Machine Learning Repository. Launched thirty years ago by the University of California Irvine, don’t let the 90s vibe mislead you—the UCI repository has a strong reputation among students, teachers, and researchers as the go-to place for machine learning data. Datasets are clearly categorized by task (i.e. classification, regression, or clustering), attribute (i.e. categorical, numerical), data type, and area of expertise. This makes it easy to find something that’s suitable, whatever machine learning project you’re working on.
+
+
+5. Earth Data
+Type of data: Earth science
+Data compiled by: NASA
+Access: Free, no registration required
+Sample dataset: Environmental conditions during fall moose hunting season in Alaska, 2000-2016
+
+If you think space is awesome (let’s face it, space is awesome!) look no further than Earth Data. Publicly available since 1994, this repository provides access to all of NASA’s satellite observation data for our little blue planet. As you can imagine, there’s plenty to peruse, from weather and climate measurements to atmospheric observations, ocean temperatures, vegetation mapping, and more. If Earth-based data isn’t your thing, NASA’s Planetary Data System takes things a step further with data from interplanetary missions, such as the Cassini probe (which orbited Saturn from 2004 to 2017). Who knows, you might even make a scientific discovery…
+
+
+6. CERN Open Data Portal
+Type of data: Particle Physics
+Data compiled by: CERN
+Access: Free, no registration required
+Sample dataset: Higgs candidate collision events from 2011 and 2012
+
+Want to demonstrate your ability to work with highly complex datasets? Head to the CERN Open Data Portal. It offers access to over two petabytes of information, including datasets from the Large Hadron Collider particle accelerator. Frankly, these data aren’t for the faint of heart but if you’re interested in particle physics, they’re worth checking out. While even the names of these datasets are pretty complex, each entry has a helpful breakdown of what’s included, as well as related datasets, and how to go about analyzing them. In many cases, they even provide sample code to get you started (thanks, CERN!)
+
+
+7. Global Health Observatory Data Repository
+Type of data: Health
+Data compiled by: UN World Health Organization
+Access: Free, no registration required
+Sample dataset: Polio immunization coverage estimates by region
+
+The Global Health Observation data repository is the UN WHO’s gateway to health-related statistics from across the globe. If you’re looking to break into the healthcare industry (a key focus for many data scientists, especially in the area of machine learning), these datasets are a good option for your portfolio. Covering everything from malaria to HIV/AIDS, antimicrobial resistance, and vaccination rates, the portal even has a nice little feature that lets you preview data tables before downloading them. Not strictly necessary, but definitely nice to have!
+
+
+8. BFI film industry statistics
+Type of data: Entertainment and film
+Data compiled by: British Film Institute
+Access: Free, no registration required
+Sample dataset: Weekend box office figures from 2001-present
+
+If you’re looking for some data that are a bit more digestible, the next few should be right up your street. First off: the British Film Institute industry statistics. Throughout the year, the BFI accrues and releases data on everything from UK box office figures, to audience demographics, home entertainment, movie production costs, and more. The best part though is their annual statistical yearbook. This breaks down the year’s data with some excellent statistical analysis and visual reports—great if you’re new to data analytics and want to check your work against the real thing.
+
+
+9. NYC Taxi Trip Data
+Type of data: Transport
+Data compiled by: New York City Taxi and Limousine Commission
+Access: Free, no registration required
+Sample dataset: Take your pick!
+
+This is a weirdly fascinating one…since 2009, the NYC Taxi and Limousine Commission has been accruing transport data from across New York City. Find datasets covering pick-up/drop-off times and locations, trip distances, fares, rate and payment types, passenger counts, and more. It’s pretty interesting to compare the differences in figures from 2009 to the present day, especially within such a small geographic area. The site also provides some additional tools, including user guides, taxicab zone maps, data dictionaries (for explaining the spreadsheet labels), and annual industry reports. All very intuitive and quite a helpful guide if you’re new to data analytics.
+
+
+10. FBI Crime Data Explorer
+Type of data: Crime and drugs
+Data compiled by: Federal Bureau of Investigation
+Access: Free, no registration required
+Sample dataset: Homicide offense counts in Point Pleasant, 2008-2018
+
+If you’re fascinated by crime, the FBI Crime Data Explorer is the one for you. It provides a broad collection of crime statistics from a variety of state organizations (universities and local law enforcement) and government (on a local, regional, and state-level). Pull data on hate crimes, officer assaults, homicides, and more. Like the last couple of entries on our list, it also includes some helpful user guides to support data navigation. Each dataset also has some pretty nice visual breakdowns and analysis, so you can see if it has the features you’re looking for before downloading it.
+
